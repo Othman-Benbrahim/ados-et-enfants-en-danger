@@ -12,7 +12,6 @@ Il sert à comprendre, définir et informer.
 Vous pouvez poser vos questions librement,
 ou utiliser le menu ci-dessous.
 
----
 
 ## Menu de navigation pédagogique
 - menu
