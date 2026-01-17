@@ -1,597 +1,342 @@
-# ChatMD — Protection de l'enfance
-
-# Bienvenue
 Bienvenue.
 
 Ce chatbot a pour objectif d’expliquer, de manière pédagogique, les notions liées à la protection des enfants et des adolescents : violences, harcèlement, consentement, prévention et rôle des adultes.
 
-> ⚠️ **Important** : Ce chatbot ne remplace pas un professionnel. Il sert à comprendre, définir et informer.
+Il ne remplace pas un professionnel. Il sert à comprendre, définir et informer.
 
-Pour commencer, tape :
-- **menu** (pour afficher le menu)
-- **apropos** (pour en savoir plus)
+Vous pouvez poser vos questions librement ou utiliser le menu ci-dessous.
 
----
+- [Démarrer la discussion](#Menu)
+- [En savoir plus sur ce chatbot](#Apropos)
 
-## Menu
-- menu
-- demarrer
-- commencer
-- accueil
-
+# Menu
 Sur quel sujet souhaitez-vous des informations ?
 
-- Tape **faq** : Questions fréquentes (FAQ)
-- Tape **documentation** : Comprendre les violences (Documentation)
-- Tape **ressources** : Numéros d'urgence et Ressources
-- Tape ** apropos** : À propos de ce chatbot
+- [Questions fréquentes (FAQ)](#FAQ)
+- [Comprendre les violences (Documentation)](#Documentation)
+- [Numéros d'urgence et Ressources](#Ressources)
+- [À propos de ce chatbot](#Apropos)
 
----
+# FAQ
+Choisissez votre profil pour voir les questions adaptées :
 
-## FAQ
-- faq
-- questions
-- questions frequentes
+- [Je suis un élève / adolescent](#FAQ_Eleves)
+- [Je suis un parent](#FAQ_Parents)
+- [Je suis un enseignant / éducateur](#FAQ_Pro)
+- [Retour au menu principal](#Menu)
 
-Choisissez votre profil :
-
-- Tape **faq eleves**
-- Tape **faq parents**
-- Tape **faq pro**
-- Tape **menu** pour revenir au menu principal
-
----
-
-## FAQ_Eleves
-- faq eleves
-- eleves
-- adolescent
-- jeune
-- collégien
-- lycéen
-
+# FAQ_Eleves
 Voici les questions fréquentes pour les jeunes :
 
-- Tape **mal**
-- Tape **faute**
-- Tape **forcer**
-- Tape **faq** pour revenir au choix du profil
-- Tape **menu** pour revenir au menu principal
+- [Est-ce normal de se sentir mal ?](#Reponse_Mal)
+- [Si je n’ai rien dit, est-ce ma faute ?](#Reponse_Faute)
+- [Peut-on me forcer si je n'ose pas dire non ?](#Reponse_Forcer)
+- [Retour au choix du profil](#FAQ)
 
----
-
-## Reponse_Mal
-- mal
-- se sentir mal
-- adolescence mal
-- normal
-
+# Reponse_Mal
 **Est-ce normal de se sentir mal à l’adolescence ?**
 
 L’adolescence est une période de changements importants. Les émotions peuvent être plus fortes.
 Cela ne signifie pas qu’il y a un problème, mais il est important de pouvoir en parler.
 
-Tape **faq eleves** pour revenir aux questions élèves, ou **menu**.
+- [Retour aux questions élèves](#FAQ_Eleves)
+- [Retour au menu principal](#Menu)
 
----
-
-## Reponse_Faute
-- faute
-- culpabilite
-- culpabilité
-- responsable
-
+# Reponse_Faute
 **Si je n’ai rien dit, est-ce que c’est ma faute ?**
 
 Le silence n’est jamais une faute.
 Il peut être lié à la peur, à la sidération ou à la confusion. Vous n'êtes pas responsable.
 
-Tape **faq eleves** pour revenir aux questions élèves, ou **menu**.
+- [Retour aux questions élèves](#FAQ_Eleves)
+- [Retour au menu principal](#Menu)
 
----
-
-## Reponse_Forcer
-- forcer
-- pression
-- dire non
-- obligé
-- obliger
-
+# Reponse_Forcer
 **Peut-on me forcer à faire quelque chose si je n’ose pas dire non ?**
 
 Céder sous la pression ne signifie pas consentir.
 Le consentement doit être libre et volontaire. Personne n'a le droit de vous forcer, même si vous ne dites pas "non" explicitement.
 
-Tape **faq eleves** pour revenir aux questions élèves, ou **menu**.
+- [Retour aux questions élèves](#FAQ_Eleves)
+- [Retour au menu principal](#Menu)
 
----
-
-## FAQ_Parents
-- faq parents
-- parents
-- famille
-
+# FAQ_Parents
 Voici les questions fréquentes pour les parents :
 
-- Tape **signes**
-- Tape **ecrans**
-- Tape **croire**
-- Tape **faq** pour revenir au choix du profil
-- Tape **menu** pour revenir au menu principal
+- [Comment savoir si mon enfant va mal ?](#Reponse_Signes)
+- [Faut-il surveiller les écrans ?](#Reponse_Ecrans)
+- [Dois-je toujours croire mon enfant ?](#Reponse_Croire)
+- [Retour au choix du profil](#FAQ)
 
----
-
-## Reponse_Signes
-- signes
-- inquietude
-- inquiétude
-- mon enfant va mal
-
+# Reponse_Signes
 **Comment savoir si mon enfant va mal ?**
 
 Certains signes peuvent alerter : isolement, changement de comportement, baisse scolaire, troubles du sommeil.
 Le dialogue régulier est essentiel.
 
-Tape **faq parents** pour revenir aux questions parents, ou **menu**.
+- [Retour aux questions parents](#FAQ_Parents)
+- [Retour au menu principal](#Menu)
 
----
-
-## Reponse_Ecrans
-- ecrans
-- écrans
-- telephone
-- téléphone
-- reseaux sociaux
-- réseaux sociaux
-
+# Reponse_Ecrans
 **Faut-il surveiller les écrans ?**
 
 Les écrans doivent être encadrés.
-Des règles claires permettent de réduire les risques (temps d'écran, contenus accessibles, etc.).
+Des règles claires permettent de réduire les risques.
 
-Tape **faq parents** pour revenir aux questions parents, ou **menu**.
+- [Retour aux questions parents](#FAQ_Parents)
+- [Retour au menu principal](#Menu)
 
----
-
-## Reponse_Croire
-- croire
-- parole
-- mon enfant me parle
-
+# Reponse_Croire
 **Dois-je toujours croire mon enfant ?**
 
 La parole d’un enfant doit être prise au sérieux.
-L’écoute permet ensuite d’agir et de protéger. Ne minimisez jamais ce qu'il vous confie.
+L’écoute permet ensuite d’agir et de protéger.
 
-Tape **faq parents** pour revenir aux questions parents, ou **menu**.
+- [Retour aux questions parents](#FAQ_Parents)
+- [Retour au menu principal](#Menu)
 
----
-
-## FAQ_Pro
-- faq pro
-- pro
-- enseignant
-- educateur
-- éducateur
-
+# FAQ_Pro
 Voici les questions pour les équipes éducatives :
 
-- Tape **alerte**
-- Tape **prevention**
-- Tape **faq** pour revenir au choix du profil
-- Tape **menu** pour revenir au menu principal
+- [Que faire face à une situation préoccupante ?](#Reponse_Alerte)
+- [Pourquoi la prévention est-elle essentielle ?](#Reponse_Prevention)
+- [Retour au choix du profil](#FAQ)
 
----
-
-## Reponse_Alerte
-- alerte
-- situation preocupante
-- situation préoccupante
-- signalement
-
+# Reponse_Alerte
 **Que faire face à une situation préoccupante ?**
 
-Il est important de ne pas rester seul et de suivre les procédures prévues par l’institution (protocole Éducation nationale, signalement, information préoccupante).
+Il est important de ne pas rester seul et de suivre les procédures prévues par l’institution.
 
-Tape **faq pro** pour revenir aux questions pro, ou **menu**.
+- [Retour aux questions pro](#FAQ_Pro)
+- [Retour au menu principal](#Menu)
 
----
-
-## Reponse_Prevention
-- prevention
-- prévention
-- essentielle
-
+# Reponse_Prevention
 **Pourquoi la prévention est-elle essentielle ?**
 
-La prévention permet de repérer plus tôt les difficultés et de réduire les situations graves. Elle donne des clés aux élèves pour comprendre leurs droits.
+La prévention permet de repérer plus tôt les difficultés et de réduire les situations graves.
 
-Tape **faq pro** pour revenir aux questions pro, ou **menu**.
+- [Retour aux questions pro](#FAQ_Pro)
+- [Retour au menu principal](#Menu)
 
----
-
-## Documentation
-- documentation
-- doc
-- comprendre
-- violences
-
+# Documentation
 **Documentation Pédagogique**
 *D’après les travaux de Jean-Louis Lafont*
 
-Choisissez un thème :
+Ce module explique les mécanismes des violences et la protection. Choisissez un thème :
 
-- Tape **definitions**
-- Tape **silence**
-- Tape **protection**
-- Tape **societe**
-- Tape **menu** pour revenir au menu principal
+- [Définitions (Violences, Consentement, Loi)](#Doc_Definitions)
+- [Le silence et les victimes](#Doc_Silence)
+- [Protéger et Reconstruire](#Doc_Protection)
+- [Famille et Société](#Doc_Societe)
+- [Retour au menu principal](#Menu)
 
----
-
-## Doc_Definitions
-- definitions
-- définition
-- définitions
-- notions
-- consentement
-- loi
-
+# Doc_Definitions
 **Définitions et Notions clés**
 
 Que souhaitez-vous définir ?
 
-- Tape **def consentement**
-- Tape **def juridique**
-- Tape **def general**
-- Tape **documentation** pour revenir au module Documentation
+- [Qu'est-ce que le consentement ?](#Def_Consentement)
+- [Définitions juridiques (Viol, Agression, Inceste)](#Def_Juridique)
+- [Que recouvrent les violences sexuelles ?](#Def_General)
+- [Retour à la documentation](#Documentation)
 
----
-
-## Def_Consentement
-- def consentement
-- consentement
-
+# Def_Consentement
 **Qu’est-ce que le consentement ?**
 
 Le consentement doit être :
-1. **Libre**
-2. **Éclairé**
-3. **Exprimé sans contrainte**
-4. **Réversible**
+Libre, Éclairé, Exprimé sans contrainte, Réversible.
 
 Il n’existe **pas** de consentement en cas de peur, de pression, d’autorité ou de dépendance.
-> **Rappel :** Un enfant ne peut jamais consentir à un acte sexuel avec un adulte.
+**Rappel :** Un enfant ne peut jamais consentir à un acte sexuel.
 
-Tape **definitions** pour revenir aux définitions.
+- [Retour aux définitions](#Doc_Definitions)
 
----
-
-## Def_Juridique
-- def juridique
-- definitions juridiques
-- viol
-- agression
-- inceste
-
+# Def_Juridique
 **Principales définitions juridiques**
 
 * **Viol** : Acte sexuel avec pénétration sans consentement.
 * **Agression sexuelle** : Actes sexuels sans pénétration.
-* **Atteinte sexuelle** : Relation sexuelle avec un mineur, même en l’absence de violence (la loi protège le mineur du fait de son âge).
+* **Atteinte sexuelle** : Relation sexuelle avec un mineur, même en l’absence de violence.
 * **Inceste** : Violences sexuelles commises au sein de la famille.
 
-Tape **definitions** pour revenir aux définitions.
+- [Retour aux définitions](#Doc_Definitions)
 
----
-
-## Def_General
-- def general
-- violences sexuelles
-- definition generale
-- définition générale
-
+# Def_General
 **Que recouvrent les violences sexuelles ?**
 
 Elles regroupent des actes sexuels imposés sans consentement.
 Elles peuvent concerner des enfants, des adolescents et des adultes, et existent dans tous les milieux sociaux.
 
-Tape **definitions** pour revenir aux définitions.
+- [Retour aux définitions](#Doc_Definitions)
 
----
-
-## Doc_Silence
-- silence
-- victimes
-- parler
-
+# Doc_Silence
 **Le silence et les victimes**
 
-Choisissez :
+Comprendre pourquoi il est difficile de parler :
 
-- Tape **silence pourquoi**
-- Tape **silence mecanismes**
-- Tape **silence consequences**
-- Tape **documentation** pour revenir au module Documentation
+- [Pourquoi parle-t-on de silence ?](#Silence_Pourquoi)
+- [Pourquoi les victimes ne parlent pas ? (Mécanismes)](#Silence_Mecanismes)
+- [Quelles sont les conséquences du secret ?](#Silence_Consequences)
+- [Retour à la documentation](#Documentation)
 
----
-
-## Silence_Pourquoi
-- silence pourquoi
-- pourquoi silence
-
+# Silence_Pourquoi
 **Pourquoi parle-t-on de silence ?**
 
 Le silence entoure fréquemment les violences sexuelles. Il peut être lié à la peur, aux menaces, à la dépendance ou à la honte.
 Ce silence empêche la protection des victimes et favorise la répétition des violences.
 
-Tape **silence** pour revenir au thème Silence.
+- [Retour au thème Silence](#Doc_Silence)
 
----
-
-## Silence_Mecanismes
-- silence mecanismes
-- sidération
-- dissociation
-- emprise
-- mecanismes
-
+# Silence_Mecanismes
 **Pourquoi les victimes ne parlent-elles pas ?**
 
-Plusieurs mécanismes psychotraumatiques expliquent ce silence (ce n'est pas un choix volontaire) :
-* **La sidération** : Impossibilité de réagir sur le moment (cerveau "déconnecté").
-* **La dissociation** : Mise à distance des émotions pour survivre.
+Plusieurs mécanismes psychotraumatiques expliquent ce silence :
+* **La sidération** : Impossibilité de réagir sur le moment.
+* **La dissociation** : Mise à distance des émotions.
 * **L’emprise** : Contrôle psychologique exercé par l’agresseur.
 
-Tape **silence** pour revenir au thème Silence.
+Ces mécanismes ne relèvent pas d’un choix volontaire.
 
----
+- [Retour au thème Silence](#Doc_Silence)
 
-## Silence_Consequences
-- silence consequences
-- conséquences secret
-- consequences
-
+# Silence_Consequences
 **Quelles sont les conséquences du secret ?**
 
-Le secret peut entraîner : culpabilité, honte, troubles psychologiques, comportements à risque, difficultés relationnelles.
+Le secret peut entraîner : culpabilité, honte, troubles psychologiques, comportements à risque.
 Lorsque la parole est impossible, le corps peut exprimer la souffrance.
 
-Tape **silence** pour revenir au thème Silence.
+- [Retour au thème Silence](#Doc_Silence)
 
----
-
-## Doc_Protection
-- protection
-- ecoute
-- écouter
-- reconstruire
-
+# Doc_Protection
 **Protéger, Écouter, Reconstruire**
 
-Choisissez :
+- [Pourquoi l’écoute est-elle importante ?](#Prot_Ecoute)
+- [Que signifie protéger une victime ?](#Prot_Agir)
+- [Comment se déroule la reconstruction ?](#Prot_Reconstruction)
+- [Retour à la documentation](#Documentation)
 
-- Tape **ecoute**
-- Tape **agir**
-- Tape **reconstruction**
-- Tape **documentation** pour revenir au module Documentation
-
----
-
-## Prot_Ecoute
-- ecoute
-- écoute
-
+# Prot_Ecoute
 **Pourquoi l’écoute est-elle importante ?**
 
-L’écoute permet à la victime d’être reconnue. Elle suppose de **ne pas juger**, de **ne pas minimiser** et de **croire** la parole exprimée.
-Une écoute correcte constitue une première étape de protection.
+L’écoute permet à la victime d’être reconnue.
+Elle suppose de ne pas juger, de ne pas minimiser et de croire la parole exprimée.
 
-Tape **protection** pour revenir au thème Protection.
+- [Retour au thème Protection](#Doc_Protection)
 
----
-
-## Prot_Agir
-- agir
-- proteger
-- protéger
-
+# Prot_Agir
 **Que signifie protéger une victime ?**
 
 Protéger signifie :
-* Faire cesser le danger immédiatement.
-* Ne pas banaliser les faits.
-* Ne pas régler les violences par des accords familiaux (la loi doit intervenir).
+Faire cesser le danger.
+Ne pas banaliser les faits, ne pas régler les violences par des accords familiaux.
+La protection peut impliquer une démarche officielle.
 
-La protection implique souvent une démarche officielle lorsque la sécurité est en jeu.
+- [Retour au thème Protection](#Doc_Protection)
 
-Tape **protection** pour revenir au thème Protection.
-
----
-
-## Prot_Reconstruction
-- reconstruction
-- se reconstruire
-
+# Prot_Reconstruction
 **Comment se déroule la reconstruction ?**
 
-C'est un processus progressif. Il peut inclure la parole, l’accompagnement psychologique, le soutien juridique et la réinsertion sociale.
-Il n’existe pas de parcours unique, chacun avance à son rythme.
+C'est un processus progressif.
+Il peut inclure la parole, l’accompagnement psychologique, le soutien juridique et la réinsertion sociale.
 
-Tape **protection** pour revenir au thème Protection.
+- [Retour au thème Protection](#Doc_Protection)
 
----
-
-## Doc_Societe
-- societe
-- société
-- famille
-
+# Doc_Societe
 **Famille et Société**
 
-Choisissez :
+- [Où ont lieu les violences ?](#Soc_Lieux)
+- [Comment prévenir les violences dans la famille ?](#Soc_Famille)
+- [Qu'est-ce que la culture du viol ?](#Soc_Culture)
+- [Quel est le rôle de la société ?](#Soc_Role)
+- [Retour à la documentation](#Documentation)
 
-- Tape **lieux**
-- Tape **prevenir famille**
-- Tape **culture du viol**
-- Tape **role societe**
-- Tape **documentation** pour revenir au module Documentation
-
----
-
-## Soc_Lieux
-- lieux
-- où
-- cadre familial
-
+# Soc_Lieux
 **Où ont lieu le plus souvent les violences sexuelles ?**
 
-La majorité des violences sexuelles sur mineurs ont lieu **dans le cadre familial ou proche**.
+La majorité des violences sexuelles sur mineurs ont lieu dans le cadre familial ou proche.
 Les agresseurs sont souvent des personnes connues de la victime occupant une position d’autorité ou de confiance.
 
-Tape **societe** pour revenir au thème Société.
+- [Retour au thème Société](#Doc_Societe)
 
----
-
-## Soc_Famille
-- prevenir famille
-- prévention famille
-
+# Soc_Famille
 **Comment prévenir les violences dans la famille ?**
 
-La prévention repose sur le dialogue, la disponibilité des adultes, un cadre sécurisant et la possibilité pour l’enfant de parler sans crainte d'être jugé. Les secrets familiaux (violences, souffrances) doivent être levés pour ne pas impacter les générations suivantes.
+La prévention repose sur le dialogue, la disponibilité des adultes et un cadre sécurisant.
+Les enfants doivent avoir la possibilité de parler.
 
-Tape **societe** pour revenir au thème Société.
+- [Retour au thème Société](#Doc_Societe)
 
----
-
-## Soc_Culture
-- culture du viol
-
+# Soc_Culture
 **Qu’appelle-t-on culture du viol ?**
 
 Elle correspond à la banalisation ou à la minimisation des violences sexuelles.
-Elle se traduit par la culpabilisation des victimes ("elle l'a cherché"), le doute systématique envers la parole des victimes et l’indifférence des témoins.
+Elle se traduit par la culpabilisation des victimes, le doute systématique et l’indifférence.
 
-Tape **societe** pour revenir au thème Société.
+- [Retour au thème Société](#Doc_Societe)
 
----
-
-## Soc_Role
-- role societe
-- rôle société
-- role de la société
-
+# Soc_Role
 **Quel est le rôle de la société ?**
 
-La prévention est collective. Elle concerne l’école, les professionnels de santé, les forces de l’ordre et les institutions publiques.
-Informer et former permet de limiter les violences.
+La prévention concerne l’école, les professionnels de santé, les forces de l’ordre et les institutions.
+Message essentiel : le silence empêche la protection, la parole permet l’action.
 
-**Message essentiel :** Le silence empêche la protection, la parole permet l’action.
+- [Retour au thème Société](#Doc_Societe)
 
-Tape **societe** pour revenir au thème Société.
-
----
-
-## Ressources
-- ressources
-- urgence
-- numeros
-- numéros
-
+# Ressources
 **Besoin d'aide ou de conseils ?**
 
 Voici les contacts utiles selon votre situation.
 
-- Tape **119**
-- Tape **3020**
-- Tape **3018**
-- Tape **prostitution**
-- Tape **menu** pour revenir au menu principal
+- [Urgence "Enfance en Danger" (119)](#Res_119)
+- [Harcèlement scolaire (3020)](#Res_Ecole)
+- [Cyberharcèlement (3018)](#Res_Cyber)
+- [Prostitution des mineurs (Associations)](#Res_Prostitution)
+- [Retour au menu principal](#Menu)
 
----
-
-## Res_119
-- 119
-- allo enfance en danger
-- enfance en danger
-
+# Res_119
 **119 – Allo Enfance en Danger**
 
-* Pour les mineurs de moins de 18 ans et les témoins.
-* Accessible 24h/24 et 7j/7.
-* **Appel gratuit** et n'apparait pas sur la facture.
-* Appel possible de façon **anonyme**.
+Accessible 24h/24 et 7j/7. Appel gratuit et anonyme.
+Les enfants et adolescents peuvent appeler eux-mêmes.
+Site : https://www.allo119.gouv.fr/
 
-Les enfants et adolescents peuvent appeler eux-mêmes s'ils se sentent en danger.
-https://www.allo119.gouv.fr/
+- [Retour aux ressources](#Ressources)
 
-Tape **ressources** pour revenir.
-
----
-
-## Res_Ecole
-- 3020
-- ecole
-- école
-- harcèlement scolaire
-
+# Res_Ecole
 **Difficultés à l'école et Harcèlement**
 
-* **3020** : Numéro national "Non au harcèlement" (Éducation nationale).
-* **À l'école** : Alerter le chef d’établissement, le professeur principal ou les psychologues scolaires.
+**3020** : Numéro national "Non au harcèlement" (Éducation nationale).
+Les parents peuvent alerter le chef d’établissement.
 
-Note : Le 3020 est une écoute. Pour les situations graves nécessitant une intervention judiciaire, contacter la police/gendarmerie ou le Procureur.
+Pour les situations graves : écrire au Procureur ou porter plainte.
 
-Tape **ressources** pour revenir.
+- [Retour aux ressources](#Ressources)
 
----
-
-## Res_Cyber
-- 3018
-- cyberharcelement
-- cyberharcèlement
-
+# Res_Cyber
 **Cyberharcèlement**
 
-* **3018** (e-Enfance) : Numéro national gratuit et confidentiel.
-* Permet de signaler une situation, d'obtenir des conseils et d’aider à la suppression de comptes ou contenus nuisibles.
-https://www.e-enfance.org/
+**3018** (e-Enfance) : Numéro national gratuit et confidentiel.
+Permet de signaler et d’aider à la suppression de contenus nuisibles.
+Site : https://www.e-enfance.org/
 
-Tape **ressources** pour revenir.
+- [Retour aux ressources](#Ressources)
 
----
-
-## Res_Prostitution
-- prostitution
-- acpe
-- mouvement du nid
-
+# Res_Prostitution
 **Prostitution des mineurs et accompagnement**
 
 **Agir Contre la Prostitution des Enfants (ACPE)**
-Groupes de parole pour parents et accompagnement juridique.
-📞 01 40 26 91 51 (Paris)
+01 40 26 91 51
 
 **Mouvement du Nid – France**
-Accompagnement des personnes (accès justice, soins, protection).
-📞 01 42 70 92 40 (National)
+Accompagne les personnes prostituées.
+01 42 70 92 40
 
-Tape **ressources** pour revenir.
+- [Retour aux ressources](#Ressources)
 
----
-
-## Apropos
-- apropos
-- à propos
-- infos
-
+# Apropos
 **Source et auteur**
 
-Cette documentation est basée sur les travaux de **Jean-Louis Lafont**, auteur et conférencier engagé dans la protection de l’enfance.
-https://www.jeanlouislafont.fr/
+Cette documentation est basée sur les travaux de Jean-Louis Lafont, auteur et conférencier engagé dans la protection de l’enfance.
+Site internet officiel : https://www.jeanlouislafont.fr/
 
-Ce chatbot a pour but d'informer. Si une information ne figure pas dans la documentation, le chatbot ne l'inventera pas.
-
-Tape **menu** pour revenir au menu principal.
-
+- [Retour au menu principal](#Menu)
