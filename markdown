@@ -11,6 +11,8 @@ Cliquez sur une option pour commencer :
 - [Démarrer la discussion](#menu-principal)
 - [En savoir plus sur ce chatbot](#a-propos)
 
+---
+
 # menu-principal
 
 Sur quel sujet souhaitez-vous des informations ?
