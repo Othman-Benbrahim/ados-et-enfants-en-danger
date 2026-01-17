@@ -153,7 +153,7 @@ Le consentement doit être :
 4. **Réversible**
 
 Il n’existe **pas** de consentement en cas de peur, de pression, d’autorité ou de dépendance.
-> **Rappel :** Un enfant ne peut jamais consentir à un acte sexuel avec un adulte.
+> **Rappel :** Un enfant ne peut jamais consentir à un acte sexuel.
 
 - [Retour aux définitions](#doc-definitions)
 
@@ -207,7 +207,7 @@ Plusieurs mécanismes psychotraumatiques expliquent ce silence (ce n'est pas un 
 **Quelles sont les conséquences du secret ?**
 
 Le secret peut entraîner : culpabilité, honte, troubles psychologiques, comportements à risque, difficultés relationnelles.
-Lorsque la parole est impossible, le corps peut exprimer la souffrance (maux de ventre, angoisses, etc.).
+Lorsque la parole est impossible, le corps peut exprimer la souffrance.
 
 - [Retour au thème Silence](#doc-silence)
 
@@ -354,3 +354,4 @@ Cette documentation est basée sur les travaux de **Jean-Louis Lafont**, auteur 
 Ce chatbot a pour but d'informer. Si une information ne figure pas dans la documentation, le chatbot ne l'inventera pas.
 
 - [Retour au menu principal](#menu-principal)
+
