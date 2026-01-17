@@ -42,7 +42,7 @@ Exemples de questions :
 
 ---
 
-## Source et auteur
+# Source et auteur
 - source
 - auteur
 - Jean-Louis Lafont
