@@ -10,15 +10,7 @@ Il ne remplace pas un professionnel.
 Il sert à comprendre, définir et informer.
 
 Vous pouvez poser vos questions librement,
-ou utiliser le menu ci-dessous (tu peux cliquer) :
-
-1. [Comprendre les violences](#comprendre-les-violences)
-2. [Adolescence et vulnérabilité](#adolescence-et-vulnerabilite)
-3. [Consentement et définitions](#consentement-et-definitions)
-4. [Harcèlement et cyberharcèlement](#harcelement-et-cyberharcelement)
-5. [Prévention et rôle des adultes](#prevention-et-role-des-adultes)
-6. [Ressources utiles](#ressources-utiles)
-7. [Source : Jean-Louis Lafont](#source-et-auteur)
+ou utiliser le menu ci-dessous :
 
 
 Vous pouvez poser des questions sur :
