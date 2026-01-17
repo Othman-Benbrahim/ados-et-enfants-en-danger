@@ -24,7 +24,7 @@ Sur quel sujet souhaitez-vous des informations ?
 - Tape **faq** : Questions fréquentes (FAQ)
 - Tape **documentation** : Comprendre les violences (Documentation)
 - Tape **ressources** : Numéros d'urgence et Ressources
-- Tape **apropos** : À propos de ce chatbot
+- Tape ** à propos** : À propos de ce chatbot
 
 ---
 
