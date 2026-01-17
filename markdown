@@ -10,13 +10,8 @@ Il ne remplace pas un professionnel.
 Il sert à comprendre, définir et informer.
 
 Vous pouvez poser vos questions librement,
-ou utiliser le menu ci-dessous.
+ou utiliser le menu ci-dessous -
 
-
-## Menu de navigation pédagogique
-- menu
-- navigation
-- sommaire
 
 Vous pouvez poser des questions sur :
 
