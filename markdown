@@ -11,7 +11,7 @@ Cliquez sur une option pour commencer :
 - [Démarrer la discussion](#menu-principal)
 - [En savoir plus sur ce chatbot](#a-propos)
 
-# menu-principal
+## Menu principal
 
 Sur quel sujet souhaitez-vous des informations ?
 
@@ -20,15 +20,15 @@ Sur quel sujet souhaitez-vous des informations ?
 - [Numéros d'urgence et Ressources](#ressources-hub)
 - [À propos de ce chatbot](#a-propos)
 
-# faq-hub
-Choisissez votre profil pour voir les questions adaptées :
+## FAQ Hub
+ Choisissez votre profil pour voir les questions adaptées :
 
 - [Je suis un élève / adolescent](#faq-eleves)
 - [Je suis un parent](#faq-parents)
 - [Je suis un enseignant / éducateur](#faq-pro)
 - [Retour au menu principal](#menu-principal)
 
-# faq-eleves
+## FAQ Eleves
 Voici les questions fréquentes pour les jeunes :
 
 - [Est-ce normal de se sentir mal à l’adolescence ?](#faq-eleve-mal)
@@ -36,7 +36,7 @@ Voici les questions fréquentes pour les jeunes :
 - [Peut-on me forcer si je n'ose pas dire non ?](#faq-eleve-forcer)
 - [Retour au choix du profil](#faq-hub)
 
-# faq-eleve-mal
+## FAQ Eleve Mal
 **Est-ce normal de se sentir mal à l’adolescence ?**
 
 L’adolescence est une période de changements importants. Les émotions peuvent être plus fortes.
@@ -45,7 +45,7 @@ Cela ne signifie pas qu’il y a un problème, mais il est important de pouvoir 
 - [Retour aux questions élèves](#faq-eleves)
 - [Retour au menu principal](#menu-principal)
 
-# faq-eleve-faute
+## FAQ Eleve Faute
 **Si je n’ai rien dit, est-ce que c’est ma faute ?**
 
 Le silence n’est jamais une faute.
@@ -54,7 +54,7 @@ Il peut être lié à la peur, à la sidération ou à la confusion. Vous n'ête
 - [Retour aux questions élèves](#faq-eleves)
 - [Retour au menu principal](#menu-principal)
 
-# faq-eleve-forcer
+## FAQ Eleve Forcer
 **Peut-on me forcer à faire quelque chose si je n’ose pas dire non ?**
 
 Céder sous la pression ne signifie pas consentir.
@@ -63,7 +63,7 @@ Le consentement doit être libre et volontaire. Personne n'a le droit de vous fo
 - [Retour aux questions élèves](#faq-eleves)
 - [Retour au menu principal](#menu-principal)
 
-# faq-parents
+## FAQ Parents
 Voici les questions fréquentes pour les parents :
 
 - [Comment savoir si mon enfant va mal ?](#faq-parent-signes)
@@ -71,7 +71,7 @@ Voici les questions fréquentes pour les parents :
 - [Dois-je toujours croire mon enfant ?](#faq-parent-croire)
 - [Retour au choix du profil](#faq-hub)
 
-# faq-parent-signes
+## FAQ Parent Signes
 **Comment savoir si mon enfant va mal ?**
 
 Certains signes peuvent alerter : isolement, changement de comportement, baisse scolaire, troubles du sommeil.
@@ -80,7 +80,7 @@ Le dialogue régulier est essentiel.
 - [Retour aux questions parents](#faq-parents)
 - [Retour au menu principal](#menu-principal)
 
-# faq-parent-ecrans
+## FAQ Parent Ecrans
 **Faut-il surveiller les écrans ?**
 
 Les écrans doivent être encadrés.
@@ -89,7 +89,7 @@ Des règles claires permettent de réduire les risques (temps d'écran, contenus
 - [Retour aux questions parents](#faq-parents)
 - [Retour au menu principal](#menu-principal)
 
-# faq-parent-croire
+## FAQ Parent Croire
 **Dois-je toujours croire mon enfant ?**
 
 La parole d’un enfant doit être prise au sérieux.
@@ -98,14 +98,14 @@ L’écoute permet ensuite d’agir et de protéger. Ne minimisez jamais ce qu'i
 - [Retour aux questions parents](#faq-parents)
 - [Retour au menu principal](#menu-principal)
 
-# faq-pro
+## FAQ Pro
 Voici les questions pour les équipes éducatives :
 
 - [Que faire face à une situation préoccupante ?](#faq-pro-alerte)
 - [Pourquoi la prévention est-elle essentielle ?](#faq-pro-prevention)
 - [Retour au choix du profil](#faq-hub)
 
-# faq-pro-alerte
+## FAQ Pro Alerte
 **Que faire face à une situation préoccupante ?**
 
 Il est important de ne pas rester seul et de suivre les procédures prévues par l’institution (protocole Éducation nationale, signalement, information préoccupante).
@@ -113,7 +113,7 @@ Il est important de ne pas rester seul et de suivre les procédures prévues par
 - [Retour aux questions pro](#faq-pro)
 - [Retour au menu principal](#menu-principal)
 
-# faq-pro-prevention
+## FAQ Pro Prevention
 **Pourquoi la prévention est-elle essentielle ?**
 
 La prévention permet de repérer plus tôt les difficultés et de réduire les situations graves. Elle donne des clés aux élèves pour comprendre leurs droits.
@@ -121,7 +121,7 @@ La prévention permet de repérer plus tôt les difficultés et de réduire les 
 - [Retour aux questions pro](#faq-pro)
 - [Retour au menu principal](#menu-principal)
 
-# documentation-hub
+## Documentation Hub
 **Documentation Pédagogique**
 *D’après les travaux de Jean-Louis Lafont*
 
@@ -133,7 +133,7 @@ Ce module explique les mécanismes des violences et la protection. Choisissez un
 - [Famille et Société](#doc-societe)
 - [Retour au menu principal](#menu-principal)
 
-# doc-definitions
+## Doc Definitions
 **Définitions et Notions clés**
 
 Que souhaitez-vous définir ?
@@ -143,7 +143,7 @@ Que souhaitez-vous définir ?
 - [Que recouvrent les violences sexuelles ?](#def-general)
 - [Retour à la documentation](#documentation-hub)
 
-# def-consentement
+## Def Consentement
 **Qu’est-ce que le consentement ?**
 
 Le consentement doit être :
@@ -153,11 +153,11 @@ Le consentement doit être :
 4. **Réversible**
 
 Il n’existe **pas** de consentement en cas de peur, de pression, d’autorité ou de dépendance.
-> **Rappel :** Un enfant ne peut jamais consentir à un acte sexuel.
+> **Rappel :** Un enfant ne peut jamais consentir à un acte sexuel avec un adulte.
 
 - [Retour aux définitions](#doc-definitions)
 
-# def-juridique
+## Def Juridique
 **Principales définitions juridiques**
 
 * **Viol** : Acte sexuel avec pénétration sans consentement.
@@ -167,7 +167,7 @@ Il n’existe **pas** de consentement en cas de peur, de pression, d’autorité
 
 - [Retour aux définitions](#doc-definitions)
 
-# def-general
+## Def General
 **Que recouvrent les violences sexuelles ?**
 
 Elles regroupent des actes sexuels imposés sans consentement.
@@ -175,7 +175,7 @@ Elles peuvent concerner des enfants, des adolescents et des adultes, et existent
 
 - [Retour aux définitions](#doc-definitions)
 
-# doc-silence
+## Doc Silence
 **Le silence et les victimes**
 
 Comprendre pourquoi il est difficile de parler :
@@ -185,7 +185,7 @@ Comprendre pourquoi il est difficile de parler :
 - [Quelles sont les conséquences du secret ?](#silence-consequences)
 - [Retour à la documentation](#documentation-hub)
 
-# silence-pourquoi
+## Silence Pourquoi
 **Pourquoi parle-t-on de silence ?**
 
 Le silence entoure fréquemment les violences sexuelles. Il peut être lié à la peur, aux menaces, à la dépendance ou à la honte.
@@ -193,7 +193,7 @@ Ce silence empêche la protection des victimes et favorise la répétition des v
 
 - [Retour au thème Silence](#doc-silence)
 
-# silence-mecanismes
+## Silence Mecanismes
 **Pourquoi les victimes ne parlent-elles pas ?**
 
 Plusieurs mécanismes psychotraumatiques expliquent ce silence (ce n'est pas un choix volontaire) :
@@ -203,15 +203,15 @@ Plusieurs mécanismes psychotraumatiques expliquent ce silence (ce n'est pas un 
 
 - [Retour au thème Silence](#doc-silence)
 
-# silence-consequences
+## Silence Consequences
 **Quelles sont les conséquences du secret ?**
 
 Le secret peut entraîner : culpabilité, honte, troubles psychologiques, comportements à risque, difficultés relationnelles.
-Lorsque la parole est impossible, le corps peut exprimer la souffrance.
+Lorsque la parole est impossible, le corps peut exprimer la souffrance (maux de ventre, angoisses, etc.).
 
 - [Retour au thème Silence](#doc-silence)
 
-# doc-protection
+## Doc Protection
 **Protéger, Écouter, Reconstruire**
 
 - [Pourquoi l’écoute est-elle importante ?](#prot-ecoute)
@@ -219,7 +219,7 @@ Lorsque la parole est impossible, le corps peut exprimer la souffrance.
 - [Comment se déroule la reconstruction ?](#prot-reconstruction)
 - [Retour à la documentation](#documentation-hub)
 
-# prot-ecoute
+## Prot Ecoute
 **Pourquoi l’écoute est-elle importante ?**
 
 L’écoute permet à la victime d’être reconnue. Elle suppose de **ne pas juger**, de **ne pas minimiser** et de **croire** la parole exprimée.
@@ -227,7 +227,7 @@ Une écoute correcte constitue une première étape de protection.
 
 - [Retour au thème Protection](#doc-protection)
 
-# prot-agir
+## Prot Agir
 **Que signifie protéger une victime ?**
 
 Protéger signifie :
@@ -239,7 +239,7 @@ La protection implique souvent une démarche officielle lorsque la sécurité es
 
 - [Retour au thème Protection](#doc-protection)
 
-# prot-reconstruction
+## Prot Reconstruction
 **Comment se déroule la reconstruction ?**
 
 C'est un processus progressif. Il peut inclure la parole, l’accompagnement psychologique, le soutien juridique et la réinsertion sociale.
@@ -247,7 +247,7 @@ Il n’existe pas de parcours unique, chacun avance à son rythme.
 
 - [Retour au thème Protection](#doc-protection)
 
-# doc-societe
+## Doc Societe
 **Famille et Société**
 
 - [Où ont lieu les violences ?](#soc-lieux)
@@ -256,7 +256,7 @@ Il n’existe pas de parcours unique, chacun avance à son rythme.
 - [Quel est le rôle de la société ?](#soc-role)
 - [Retour à la documentation](#documentation-hub)
 
-# soc-lieux
+## Soc Lieux
 **Où ont lieu le plus souvent les violences sexuelles ?**
 
 La majorité des violences sexuelles sur mineurs ont lieu **dans le cadre familial ou proche**.
@@ -264,14 +264,14 @@ Les agresseurs sont souvent des personnes connues de la victime occupant une pos
 
 - [Retour au thème Société](#doc-societe)
 
-# soc-famille
+## Soc Famille
 **Comment prévenir les violences dans la famille ?**
 
 La prévention repose sur le dialogue, la disponibilité des adultes, un cadre sécurisant et la possibilité pour l’enfant de parler sans crainte d'être jugé. Les secrets familiaux (violences, souffrances) doivent être levés pour ne pas impacter les générations suivantes.
 
 - [Retour au thème Société](#doc-societe)
 
-# soc-culture
+## Soc Culture
 **Qu’appelle-t-on culture du viol ?**
 
 Elle correspond à la banalisation ou à la minimisation des violences sexuelles.
@@ -279,7 +279,7 @@ Elle se traduit par la culpabilisation des victimes ("elle l'a cherché"), le do
 
 - [Retour au thème Société](#doc-societe)
 
-# soc-role
+## Soc Role
 **Quel est le rôle de la société ?**
 
 La prévention est collective. Elle concerne l’école, les professionnels de santé, les forces de l’ordre et les institutions publiques.
@@ -289,7 +289,7 @@ Informer et former permet de limiter les violences.
 
 - [Retour au thème Société](#doc-societe)
 
-# ressources-hub
+## Ressources Hub
 **Besoin d'aide ou de conseils ?**
 
 Voici les contacts utiles selon votre situation.
@@ -300,7 +300,7 @@ Voici les contacts utiles selon votre situation.
 - [Prostitution des mineurs (Associations)](#res-prostitution)
 - [Retour au menu principal](#menu-principal)
 
-# res-119
+## Res 119
 **119 – Allo Enfance en Danger**
 
 * Pour les mineurs de moins de 18 ans et les témoins.
@@ -313,7 +313,7 @@ Les enfants et adolescents peuvent appeler eux-mêmes s'ils se sentent en danger
 
 - [Retour aux ressources](#ressources-hub)
 
-# res-ecole
+## Res Ecole
 **Difficultés à l'école et Harcèlement**
 
 * **3020** : Numéro national "Non au harcèlement" (Éducation nationale).
@@ -323,7 +323,7 @@ Les enfants et adolescents peuvent appeler eux-mêmes s'ils se sentent en danger
 
 - [Retour aux ressources](#ressources-hub)
 
-# res-cyber
+## Res Cyber
 **Cyberharcèlement**
 
 * **3018** (e-Enfance) : Numéro national gratuit et confidentiel.
@@ -332,7 +332,7 @@ Les enfants et adolescents peuvent appeler eux-mêmes s'ils se sentent en danger
 
 - [Retour aux ressources](#ressources-hub)
 
-# res-prostitution
+## Res Prostitution
 **Prostitution des mineurs et accompagnement**
 
 **Agir Contre la Prostitution des Enfants (ACPE)**
@@ -345,7 +345,7 @@ Accompagnement des personnes (accès justice, soins, protection).
 
 - [Retour aux ressources](#ressources-hub)
 
-# a-propos
+## A propos
 **Source et auteur**
 
 Cette documentation est basée sur les travaux de **Jean-Louis Lafont**, auteur et conférencier engagé dans la protection de l’enfance.
